@@ -1,5 +1,7 @@
 # Nullish Coalescing for JavaScript
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ## Status
 Current Stage:
 * Stage 4
